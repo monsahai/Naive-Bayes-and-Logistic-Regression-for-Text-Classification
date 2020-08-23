@@ -1,5 +1,5 @@
 # Naive Bayes and Logistic Regression for Text Classification
- Naive Bayes and Logistic Regression for Text Classification
+ Naive Bayes and Logistic Regression for Text Classification(Spam/Ham)
 Implemented and evaluated Naive Bayes and Logistic Regression for text classification. Used Python to implement the algorithms.
 
 a. Downloaded the spam/ham (ham is not spam) dataset available on the elearning. 
